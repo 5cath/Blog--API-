@@ -25,8 +25,7 @@ Elle permet de gérer des articles de blog avec les opérations suivantes :
 
 ### 1. Cloner le projet
 ```
-git clone https://github.com/TON-USERNAME/NOM-DU-REPO.git
-```
+git clone https://github.com/5cath/Blog--API
 
 ### 2. Accéder au dossier
 ```
@@ -123,11 +122,8 @@ README.md
 ---
 
 ## 👨🏽‍💻 Auteur
-Nom : [Ton nom]  
-Matricule : [Ton matricule]  
-Filière : Informatique (INF222)
+Nom : CATHERINE DE GRÂCE EYIA 
+Matricule : INF-L2
+Filière : INF-L2 (INF222)
 
 ---
-
-## 🔗 Lien du repository
-https://github.com/TON-USERNAME/NOM-DU-REPO
